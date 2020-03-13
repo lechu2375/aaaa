@@ -292,12 +292,13 @@ local hunger_items = {
         ["hunger"] = 15,
         ["thirst"] = 35
     },
-["name"] = "Zupa w proszku tieru LOJALIST.",
-["model"] = "models/gibs/props_canteen/vm_sneckol.mdl",
-["desc"] = "Kartonowe pudełko z proszkiem do rozrobienia. W opakowaniu znajduje się też dawka wody.",
-["hunger"] = 15,
-["thirst"] = 35
-},
+	["Racjetierulojalist4"] = {	
+	["name"] = "Zupa w proszku tieru LOJALIST.",
+	["model"] = "models/gibs/props_canteen/vm_sneckol.mdl",
+	["desc"] = "Kartonowe pudełko z proszkiem do rozrobienia. W opakowaniu znajduje się też dawka wody.",
+	["hunger"] = 15,
+	["thirst"] = 35
+	},
     ["Racjetierucombine"] = {
         ["name"] = "Pudełko z tabletkami tieru COMBINE.",
         ["model"] = "models/probs_misc/tobccco_box-1.mdl",
